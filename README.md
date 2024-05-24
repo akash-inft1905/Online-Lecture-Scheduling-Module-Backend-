@@ -17,6 +17,8 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+---
+
 ## Features
 
 - **User Authentication**: Register and login functionality for users.
@@ -24,14 +26,17 @@
 - **Courses Management**: Add courses, retrieve course details, and retrieve course names.
 - **Schedule Management**: Add schedules, retrieve schedules, retrieve user schedules, and check instructor availability.
 
+---
+
 ## Installation
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/online-lecture-scheduling-backend.git
 
+
 ## Install dependencies:
-        ```bash
+        
         cd online-lecture-scheduling-backend
         npm install
 
