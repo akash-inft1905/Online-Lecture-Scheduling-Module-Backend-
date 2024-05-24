@@ -1,8 +1,6 @@
 <h1 align="center">Online Lecture Scheduling Module (Backend)</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/akash-inft1905/online-lecture-scheduling-backend" alt="License">
-</p>
+
 
 <p align="center">
   <b>An Online Lecture Scheduling Module developed with MERN stack for managing courses, instructors, and schedules.</b>
@@ -32,7 +30,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/online-lecture-scheduling-backend.git](https://github.com/akash-inft1905/Online-Lecture-Scheduling-Module-Backend-.git)
+   git clone https://github.com/akash-inft1905/Online-Lecture-Scheduling-Module-Backend-.git
 
 
 ## Install dependencies:
