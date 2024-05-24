@@ -19,9 +19,7 @@ app.use(
 );
 
 // MongoDB Connection config
-const mongoURI =
-  process.env.MONGODB_URI ||
-  "mongodb+srv://insta01012002:akash0101@cluster0.ob20adr.mongodb.net/lsm";
+const mongoURI = process.env.MONGODB_URI;
 
 mongoose
   .connect(mongoURI)
@@ -38,7 +36,6 @@ app.use("/api/auth", authRoutes);
 
 // Server configuration
 const port = process.env.PORT || 8000;
-const host = process.env.HOST || "0.0.0.0";
 
 app.listen(port, host, () => {
   console.log(`Server started on port ${port}`);
