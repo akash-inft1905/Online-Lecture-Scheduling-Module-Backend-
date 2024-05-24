@@ -43,9 +43,6 @@
 ## Configure environment variables:
     Rename .env.example to .env and update the variables as required (e.g., MongoDB connection string, JWT secret).
 
-## Configure environment variables:
-    Rename .env.example to .env and update the variables as required (e.g., MongoDB connection string, JWT secret).
-
 ## API Routes
 
 ### User Authentication:
