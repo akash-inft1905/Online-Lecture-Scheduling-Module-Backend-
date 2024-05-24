@@ -1,7 +1,7 @@
 <h1 align="center">Online Lecture Scheduling Module (Backend)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/your-username/online-lecture-scheduling-backend" alt="License">
+  <img src="https://img.shields.io/github/license/akash-inft1905/online-lecture-scheduling-backend" alt="License">
 </p>
 
 <p align="center">
