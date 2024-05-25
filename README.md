@@ -32,6 +32,14 @@
    ```bash
    git clone https://github.com/akash-inft1905/Online-Lecture-Scheduling-Module-Backend-.git
 
+## Demo Creadentials
+for admin:- 
+   username:- akash
+   password:- akash1234
+
+for instructor demo you can create or use the following:
+username: user1
+password: user1234
 
 ## Install dependencies:
         
