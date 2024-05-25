@@ -12,7 +12,10 @@ app.use(express.json());
 // Cross origin Configurations for local and deployed
 app.use(
   cors({
-    origin: ["http://localhost:3000"],
+    origin: [
+      "http://localhost:3000",
+      "https://lecture-scheduling-module.netlify.app",
+    ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     credentials: true,
   })
@@ -35,7 +38,7 @@ mongoose
 app.use("/api/auth", authRoutes);
 
 // Server configuration
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 4000;
 const host = process.env.HOST || "0.0.0.0";
 
 app.listen(port, host, () => {
